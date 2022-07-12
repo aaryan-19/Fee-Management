@@ -1,0 +1,14 @@
+{
+    "fee_structure": {
+        "2021": {
+            "tution_fees": 36000,
+            "training_fees": 11000,
+            "extra_curricular": 6000,
+            "total_fees": 53000,
+            "last_date_submit": "2021-12-25",
+            "scholarship_amount" : 5300,
+            "After_scholarship" : 47700
+        }
+        
+    }
+}
